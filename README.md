@@ -44,3 +44,4 @@ by the tool will remove some specific tables and attributes of the Magento Comme
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) details.
 
 ***That's all folks!***
+ 
